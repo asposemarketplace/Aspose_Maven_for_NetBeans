@@ -1,4 +1,4 @@
-# Aspose Maven for JetBrains
+# Aspose Maven for NetBeans
 
 This is another NetBeans Plugin released by [Aspose pty ltd](http://www.aspose.com), it creates Aspose maven based projects.
 
