@@ -8,7 +8,7 @@ Aspose Maven for NetBeans IDE plugin enables Java developers to work with variou
 
  The creating Maven project will always contain the selected APIs latest available version maven dependencies from [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0).
  
- ### **Recommended Links**
+**Recommended Links**
 
 *   [Download Aspose Maven for NetBeans for Manual Installation](http://plugins.netbeans.org/plugin/57279)
 
