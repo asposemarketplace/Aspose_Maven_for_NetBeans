@@ -7,3 +7,17 @@ Aspose Maven for NetBeans IDE plugin enables Java developers to work with variou
  This plugin comes with **Aspose Maven Project Wizard** that creates Aspose maven based project by selecting Aspose Java APIs on the wizard steps (like Aspose.Words, Aspose.Pdf or Aspose.Cells) and add those selected Aspose API's maven dependencies into newly created maven project's pom.xml.
 
  The creating Maven project will always contain the selected APIs latest available version maven dependencies from [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0).
+ 
+ ### **Recommended Links**
+
+*   [Download Aspose Maven for NetBeans for Manual Installation](http://plugins.netbeans.org/plugin/57279)
+
+*   [Video tutorial on "Aspose Maven Project Wizard" for NetBeans IDE](http://youtu.be/AgKrSMj3o7A)
+
+*   [Aspose Maven for JetBrains](http://goo.gl/hQgJps "Aspose Maven Project Wizard for JetBrains") (IntelliJ IDEA Plugin)
+
+*   [Download Aspose Maven for JetBrains for Manual Installation](https://plugins.jetbrains.com/plugin/7612?pr=idea_ce)
+
+*   [Aspose Java Components](http://www.aspose.com/java/total-component.aspx)
+
+![Aspose your file format experts](http://i.imgur.com/IB3pzFP.jpg "Aspose your file format experts")
