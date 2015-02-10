@@ -10,9 +10,15 @@ Aspose Maven for NetBeans IDE plugin enables Java developers to work with variou
  
 **Recommended Links**
 
+*   [Aspose Blog - Aspose Maven for NetBeans](http://goo.gl/OgyDFZ)
+
+*   [Aspose Blog - Aspose Cloud Maven Repository](http://goo.gl/86Go7P)
+
 *   [Download Aspose Maven for NetBeans for Manual Installation](http://plugins.netbeans.org/plugin/57279)
 
 *   [Video tutorial on "Aspose Maven Project Wizard" for NetBeans IDE](http://youtu.be/AgKrSMj3o7A)
+
+*   [Aspose Maven Project Archetype 1.0 in NetBeans IDE](http://goo.gl/QLpWDf)
 
 *   [Aspose Maven for JetBrains](http://goo.gl/hQgJps "Aspose Maven Project Wizard for JetBrains") (IntelliJ IDEA Plugin)
 
@@ -20,4 +26,4 @@ Aspose Maven for NetBeans IDE plugin enables Java developers to work with variou
 
 *   [Aspose Java Components](http://www.aspose.com/java/total-component.aspx)
 
-![Aspose your file format experts](http://i.imgur.com/IB3pzFP.jpg "Aspose your file format experts")
+![](http://i.imgur.com/IB3pzFP.jpg)
